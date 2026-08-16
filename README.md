@@ -5,4 +5,3 @@ During the course, I learned key Python concepts including variables, data types
 I had the wonderful opportunity to present my programs and a project during the Demo Day, which was a great learning and presentation experience. I sincerely thank all my teachers and the UNP Education team for their constant support, guidance, and encouragement throughout the course.
 
 GOOGLE COLAB LINK FOR CODE: https://drive.google.com/file/d/1aFP74DsuqIx9DtlSP92OzEZt5rS-NOjr/view?usp=sharing 
- 
